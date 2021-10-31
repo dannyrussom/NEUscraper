@@ -1,2 +1,2 @@
 # NEUscrape
- This python code will print the website url of all the faculty memebers of the NEU software college, who have listed their website on the school's official site.
+ This python code will print and open, using the default web browser, the website url of all the faculty memebers of the NEU software college, who have listed their website on the school's official site. The original intent of building this app was to solve the frustration problem caused by clicking on each one of the links only to find out that half of them have their hyperlink reference set to the same page with "#". This was a problem since I was looking at this site to look at each teacher's page and filter out the ones I recognized.
